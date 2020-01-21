@@ -1,6 +1,12 @@
 change request 1-
 For updating adding item
+
 change file 2 for major implementation
 change the file to check push to remote server
 abcdefghijklmnopqrstuvwxyz
 mnbvcxz
+change 1 -> file 2 for major implementation
+change 2 -> the file to check push to remote server
+ change 3 ->abcdefghijklmnopqrstuvwxyz
+change 4 -> at local master
+ 
